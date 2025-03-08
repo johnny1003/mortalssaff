@@ -1,0 +1,61 @@
+.page {
+    /* Set background properties */
+    background-image: url("/mmexport1722249005821.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #214d9e;
+    min-height: 100vh;
+  }
+  
+  .clubSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    color: #fff;
+  }
+  
+  .clubText {
+    flex: 2;
+  }
+  
+  .clubText h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #214d9e;
+    font-weight: bold;
+    text-decoration:underline;
+  }
+  
+  .clubDetails {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .clubDetails li {
+    margin-bottom: 10px;
+    font-size: 23px;
+  }
+  
+  .clubDetails li span {
+    font-weight: bold;
+    font-size: 29px;
+  }
+  
+  .clubImage {
+    flex: 1;
+    margin-top: 120px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+  }
+  
+  .image {
+    border-radius: 10px;
+  }
+  

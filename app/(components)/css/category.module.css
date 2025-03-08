@@ -1,0 +1,78 @@
+.page {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.separator {
+  border-bottom: 2px solid #000080;
+  margin: 10px 0 20px 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.gridItem {
+  flex-direction: column;
+  display: flex;
+}
+
+.caption {
+  font-size: 1.5em;
+  color: red;
+  margin-bottom: 5px;
+}
+
+.title {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: black;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  color: gray;
+}
+
+.rowSeparator {
+  border-bottom: 1px solid #bfd1f9;
+  margin: 40px 0;
+}
+
+.category {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #000080;
+}
+
+.skeleton {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.skeletonImage {
+  width: 100%;
+  height: 14rem;
+  background-color: #e0e0e0;
+}
+
+.skeletonText {
+  width: 100%;
+  height: 1rem;
+  background-color: #e0e0e0;
+}
