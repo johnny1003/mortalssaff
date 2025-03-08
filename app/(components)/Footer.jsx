@@ -63,9 +63,7 @@ const Footer = () => {
             paddingLeft: "50px",
           }}
         >
-          <Link href="/login" type="button" className="btn btn-light">
-            Editors Login
-          </Link>
+       
         </div>
       </div>
       <hr />
