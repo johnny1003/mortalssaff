@@ -22,7 +22,7 @@ const Navbar = () => {
   return (
     <header className={styles.header}>
       <Link href="/" className={`${styles.logo} no-underline`}>
-        <Image src="/basislogo.png" alt="BG Logo" width={40} height={40} />
+        <Image src="./basislogo.png" alt="BG Logo" width={40} height={40} />
         <span>
           The Mortals
           <br></br>
@@ -35,21 +35,21 @@ const Navbar = () => {
       <nav id="nav" className={`${styles.nav} ${menuOpen ? styles.show : ""}`}>
         <ul>
           <li>
-            <a href="/" id={styles.home}>
+            <a href="./" id={styles.home}>
               Home
             </a>
           </li>
           <li>
-            <a href="/aboutus">About Us</a>
+            <a href="./aboutus">About Us</a>
           </li>
           <li>
-            <a href="/departments">Our Departments</a>
+            <a href="./departments">Our Departments</a>
           </li>
           <li>
-            <a href="/join">Join Us</a>
+            <a href="./join">Join Us</a>
           </li>
           <li>
-            <a href="/guidelines">Submission Guidelines</a>
+            <a href="./guidelines">Submission Guidelines</a>
           </li>
     
           <div className={styles.separator}></div>
