@@ -54,7 +54,7 @@ const Navbar = () => {
     
           <div className={styles.separator}></div>
           <li>
-            <a href="https://www.mortalsmag.com/">Readers' Page</a>
+            <a href="https://www.mortalsmag.com/">Readers&apos; Page</a>
           </li>
         </ul>
       </nav>

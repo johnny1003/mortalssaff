@@ -23,7 +23,7 @@ export default function MortalsPage() {
               <span>Who sponsors us?</span> <br></br>&nbsp; Mr. Quirk, head of school <br></br>&nbsp; Mr. Ken, head of operations 
             </li>
             <li>
-              <span>What do we publish?</span> <br></br>&nbsp; Editorials <br></br>&nbsp; Poetry <br></br>&nbsp; Essays <br></br>&nbsp; Novella/short stories <br></br>&nbsp; Student columns (yes, your own column) <br></br>&nbsp; “BASIS word of the year” (wonder what it is for 2024?) <br></br>&nbsp; “BASIS quote of the school year” <br></br>&nbsp; Senior letters to future generations (wanna read to-be Stanford student's writing?) 
+              <span>What do we publish?</span> <br></br>&nbsp; Editorials <br></br>&nbsp; Poetry <br></br>&nbsp; Essays <br></br>&nbsp; Novella/short stories <br></br>&nbsp; Student columns (yes, your own column) <br></br>&nbsp; “BASIS word of the year” (wonder what it is for 2024?) <br></br>&nbsp; “BASIS quote of the school year” <br></br>&nbsp; Senior letters to future generations (wanna read to-be Stanford student&apos;s writing?) 
             </li>
             <li>
               <span>How do we publish?</span><br></br>&nbsp; Print publications at all Basis China schools <br></br>&nbsp; School-wide parent email Website <br></br>&nbsp; WeChat official account 

@@ -192,17 +192,17 @@ The Renaissance, with its vanishing points and golden ratios, perfected this fix
 
         <ul> 
 
-          <li>"The Feminine Mystique" - Betty Friedan</li> 
+          <li>&quot;The Feminine Mystique&quot; - Betty Friedan</li> 
 
-          <li>"Pedagogy of the Oppressed" - Paulo Freire</li> 
+          <li>&quot;Pedagogy of the Oppressed&quot; - Paulo Freire</li> 
 
-          <li>"Silent Spring" - Rachel Carson</li> 
+          <li>&quot;Silent Spring&quot; - Rachel Carson</li> 
 
-          <li>"The New Jim Crow" - Michelle Alexander</li> 
+          <li>&quot;The New Jim Crow&quot; - Michelle Alexander</li> 
 
-          <li>"Braiding Sweetgrass" - Robin Wall Kimmerer</li> 
+          <li>&quot;Braiding Sweetgrass&quot; - Robin Wall Kimmerer</li> 
 
-          <li>"Freedom is a Constant Struggle" - Angela Davis</li> 
+          <li>&quot;Freedom is a Constant Struggle&quot; - Angela Davis</li> 
 
         </ul> 
 
@@ -220,15 +220,15 @@ The Renaissance, with its vanishing points and golden ratios, perfected this fix
 
         <ul> 
 
-          <li>"Go Tell It on the Mountain" - James Baldwin</li> 
+          <li>&quot;Go Tell It on the Mountain&quot; - James Baldwin</li> 
 
-          <li>"The Bluest Eye" - Toni Morrison</li> 
+          <li>&quot;The Bluest Eye&quot; - Toni Morrison</li> 
 
-          <li>"Invisible Man" - Ralph Ellison</li> 
+          <li>&quot;Invisible Man&quot; - Ralph Ellison</li> 
 
-          <li>"The Color Purple" - Alice Walker</li> 
+          <li>&quot;The Color Purple&quot; - Alice Walker</li> 
 
-          <li>"The Woman Warrior" - Maxine Hong Kingston</li> 
+          <li>&quot;The Woman Warrior&quot; - Maxine Hong Kingston</li> 
 
         </ul> 
 
