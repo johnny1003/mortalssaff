@@ -6,13 +6,12 @@
 //     port: 587,
 //     secure: false,
 //     auth: {
-//       user: "hongziqian0806@gmail.com",
-//       pass: "ifin zigx tlbu adgd",
+//       
 //     },
 //   });
 
 //   const mailOptions = {
-//     from: "hongziqian0806@gmail.com",
+//     from: "",
 //     to: receiver,
 //     subject: "Acceptance status",
 //     text: "Your essay is " + (state ? "accepted" : "rejected"),
