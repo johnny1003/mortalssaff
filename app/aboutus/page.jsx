@@ -35,7 +35,7 @@ export default function MortalsPage() {
         <div className={styles.clubImage}>
           
           <Image
-            src="/placeholder.png"
+            src="./placeholder.png"
             alt="Club Image"
             width={500}
             height={600}

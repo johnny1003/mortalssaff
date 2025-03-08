@@ -16,7 +16,7 @@ export default function Home() {
       }}
     >
       <img
-        src="/bb2.jpg"
+        src="./bb2.jpg"
         style={{ width: "100%", height: "100%", position: "fixed", zIndex: -1 }}
         alt="Background"
       />
@@ -41,13 +41,13 @@ export default function Home() {
         >
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img src="/biph.png" className="d-block w-100" alt="..." />
+              <img src="./biph.png" className="d-block w-100" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="/bisz.png" className="d-block w-100" alt="..." />
+              <img src="./bisz.png" className="d-block w-100" alt="..." />
             </div>
             <div className="carousel-item">
-              <img src="/bigz.png" className="d-block w-100" alt="..." />
+              <img src="./bigz.png" className="d-block w-100" alt="..." />
             </div>
           </div>
           <button
